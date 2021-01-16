@@ -1,1 +1,6 @@
-1. proyecto de ramificaciones if
+# proyecto de ramificaciones if
+contador = 0
+
+while contador < 10:
+    print(contador)
+    contador +=1 
